@@ -1,2 +1,2 @@
-# Let-s-Play-
+# Zap!
 A new Android/Google TV Media Player
