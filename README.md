@@ -1,2 +1,2 @@
 # Zap!
-Android/Google TV Media Player with Music Visualization
+Android, Google & Fire TV Media Player with Music Visualization
