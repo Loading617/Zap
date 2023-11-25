@@ -1,3 +1,2 @@
 # Zap!
 A Android, Android TV, Fire TV Media Player
-![alt text](https://icon.kitchen/i/H4sIAAAAAAAAA11QsU7DQAz9FsyaoQlNJbIyMCEh0QnE4MS%2B66mXOLpcKlCVf8fnCgZusp%2Bf%2Fd67K1wwrrxAdwXCdD6eeGToclq5gt4fv2ftIIzoGQrwnJACT7nwB4mSah3f7%2BwpwaDmBj3snVMIJx%2F1xr7dKnD%2BqRDK%2FECHvn3UufsvogB%2FqQC843xnon9Lu7ppHBnnFYnC5IuPLDN0dVtBCv6ki6XsJWcZb3VkZ6gZeBsw2h4MGoOTHXvB5fwbWj3GMGOyiAsXI8QO15iVGgaZFOhFu03vjUJrLL%2F3oTkpSaB8gc%2FtBzG1s%2FtWAQAA)
