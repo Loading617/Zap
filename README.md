@@ -1,2 +1,2 @@
 # Zap!
-Android TV, Fire TV Media Player
+A Android TV Media Player
