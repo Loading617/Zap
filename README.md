@@ -1,2 +1,2 @@
 # Zap!
-A Google TV Media Player
+Zap: A TV Media Player 
