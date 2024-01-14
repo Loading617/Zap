@@ -1,2 +1,2 @@
 # Zap!
-### Zap: A TV Media Player 
+### Zap: For Android/TV/Google TV/Fire TV
