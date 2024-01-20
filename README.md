@@ -1,2 +1,2 @@
 # Zap!
-### Zap: For Android/TV/Google TV/Fire TV
+### Zap: For Android/TV/Google TV/Fire TV/Web
