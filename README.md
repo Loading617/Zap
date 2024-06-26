@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="Zap!.png" width="160" height="160" alt="Zap!" />  
+	<img src="Zap!.png" width="300" height="300" alt="Zap!" />  
 </p>
 
 # Zap!
