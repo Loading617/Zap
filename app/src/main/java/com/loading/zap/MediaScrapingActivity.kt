@@ -6,10 +6,10 @@ import android.os.Bundle
 import android.view.View
 import android.widget.TextView
 import androidx.core.os.bundleOf
-import org.videolan.medialibrary.interfaces.media.MediaWrapper
-import org.videolan.resources.util.parcelable
-import org.videolan.television.R
-import org.videolan.television.ui.browser.BaseTvActivity
+import com.loading.medialibrary.interfaces.media.MediaWrapper
+import com.loading.resources.util.parcelable
+import com.loading.television.R
+import com.loading.television.ui.browser.BaseTvActivity
 
 @TargetApi(Build.VERSION_CODES.JELLY_BEAN_MR1)
 class MediaScrapingTvActivity : BaseTvActivity() {
@@ -46,6 +46,6 @@ class MediaScrapingTvActivity : BaseTvActivity() {
 
     companion object {
         const val MEDIA: String = "MEDIA"
-        private const val TAG = "VLC/MediaScrapingTvActivity"
+        private const val TAG = "ZAP/MediaScrapingTvActivity"
     }
 }
