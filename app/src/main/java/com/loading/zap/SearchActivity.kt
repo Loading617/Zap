@@ -5,8 +5,8 @@ import android.os.Build
 import android.os.Bundle
 import android.view.View
 import android.widget.TextView
-import org.videolan.television.R
-import org.videolan.television.ui.browser.BaseTvActivity
+import com.loading.television.R
+import com.loading.television.ui.browser.BaseTvActivity
 
 @TargetApi(Build.VERSION_CODES.JELLY_BEAN_MR1)
 class SearchActivity : BaseTvActivity() {
@@ -33,6 +33,6 @@ class SearchActivity : BaseTvActivity() {
     }
 
     companion object {
-        private const val TAG = "VLC/SearchActivity"
+        private const val TAG = "ZAP/SearchActivity"
     }
 }
