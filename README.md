@@ -5,4 +5,4 @@
 # Zap!
 Zap: For Google TV/Fire TV
 
-This Project is Inspired By: Justin Frankel and Dmitry Boldyrev by Their amazing Software Winamp
+This Project is Inspired By: [Justin Frankel](http://www.1014.org/) and [Dmitry Boldyrev](http://www.dmitryboldyrev.ru) by Their amazing Software [Winamp](https://winamp.com)
